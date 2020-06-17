@@ -1,0 +1,3 @@
+hostname=postgres://hezlnaov:ezKl-CqaNEJl--6ltc7l66x9xo2FmkWW@hansken.db.elephantsql.com:5432
+username=hezlnaov
+password=ezKl-CqaNEJl--6ltc7l66x9xo2FmkWW
